@@ -1,5 +1,10 @@
 # Change Log
 
+## v0.1.30a1+tmh
+
+### Fixed
+- Fixed support for OpsGenie API version 2
+
 ## v0.1.29
 
 ###
